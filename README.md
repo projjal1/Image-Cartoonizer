@@ -21,7 +21,6 @@ from high-end devices or modified version from LightRoom, Photoshop, etc.
 [Tejas Rama](https://highontechs.com/computer-vision/cartooning-an-image-with-opencv/)
 
 <h2>Samples</h2>
-<hr>
 
 <table>
   <tr>
